@@ -1,11 +1,10 @@
 # slicerscript_test
 
-Description:
-[3D Slicer](https://slicer.readthedocs.io/en/latest/developer_guide/api.html) <br>
-處理[Freesurfer](https://surfer.nmr.mgh.harvard.edu)海馬迴亞區分割("Segment_226","Segment_231","Segment_232")的合併與平滑化。<br>
+Description:<br>
+[3D Slicer](https://slicer.readthedocs.io/en/latest/developer_guide/api.html) 處理[Freesurfer](https://surfer.nmr.mgh.harvard.edu)海馬迴亞區分割("Segment_226","Segment_231","Segment_232")的合併與平滑化。<br>
 
 ## usage
-資料放在：
+資料放在：<br>
 \datafolder\raw\a\orig  MRI圖像(.nii.gz)<br>
 \datafolder\seg\a\lh    亞區分割後的(.nii.gz)<br>
 
